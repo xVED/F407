@@ -1,2 +1,3 @@
 # HelloWorld
-firs step on git
+It's my first step on git
+And it so fine
